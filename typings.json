@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "marker": "github:AlecTaylor/marker/marker.d.ts"
+  }
+}
