@@ -11,8 +11,8 @@ declare module marker {
 }
 
 declare module "./marker/validators" {
-    export interface marker_validators {
-        isEmail(input: string): boolean;
+    export interface isEmail {
+        (input: string): boolean;
     }
 }
 
