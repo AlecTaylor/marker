@@ -1,0 +1,1 @@
+export function isEmail(input: string): boolean { return true }
